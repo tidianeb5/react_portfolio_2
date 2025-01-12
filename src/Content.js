@@ -58,54 +58,54 @@ export const content = {
     },
   ],
   hero: {
-    title: "Web Developer",
-    firstName: "JOHN",
-    LastName: "ALEX",
-    btnText: "Hire Me",
+    title: "Développeur Web",
+    firstName: "MAMADOU",
+    LastName: "SALIOU BAH",
+    btnText: "Contactez-moi",
     image: Hero_person,
     hero_content: [
       {
-        count: "8+",
-        text: "Years of Experinse in Web development",
+        count: "3+",
+        text: "Années d'expérience en développement web",
       },
       {
-        count: "20+",
-        text: "Projects Worked in my career",
+        count: "5+",
+        text: "Projets réalisés",
       },
     ],
   },
   skills: {
-    title: "Skills",
-    subtitle: "MY TOP SKILLS",
+    title: "Compétences",
+    subtitle: "MES PRINCIPALES COMPÉTENCES",
     skills_content: [
       {
-        name: "Figma",
-        para: "Lorem ipsum text  dummy",
+        name: "HTML/CSS",
+        para: "Développement frontend",
         logo: figma,
       },
       {
-        name: "Node js",
-        para: "Lorem ipsum text  dummy",
+        name: "PHP/SQL",
+        para: "Développement backend",
         logo: nodejs,
       },
       {
-        name: "Adobe Photoshop",
-        para: "Lorem ipsum text  dummy",
+        name: "Bootstrap",
+        para: "Framework Frontend",
         logo: ps,
       },
       {
-        name: "React js",
-        para: "Lorem ipsum text  dummy",
+        name: "Windows",
+        para: "Système d'exploitation",
         logo: reactjs,
       },
       {
-        name: "Sketch",
-        para: "Lorem ipsum text  dummy",
+        name: "Photoshop",
+        para: "Édition d'images",
         logo: sketch,
       },
       {
-        name: "Python",
-        para: "Lorem ipsum text  dummy",
+        name: "Pack Office",
+        para: "Suite bureautique",
         logo: python,
       },
     ],
@@ -113,40 +113,40 @@ export const content = {
   },
   services: {
     title: "Services",
-    subtitle: "WHAT I OFFER",
+    subtitle: "CE QUE JE PROPOSE",
     service_content: [
       {
-        title: "Web Development",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "Développement Web",
+        para: "Développement d'interfaces web, front et back, gestion de bases de données avec HTML, CSS, JavaScript, PHP",
         logo: services_logo1,
       },
       {
-        title: "ui / ux DESIGNING",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "Gestion Administrative",
+        para: "Suivi de trésorerie, gestion des relations clients et fournisseurs, gestion des dossiers administratifs",
         logo: services_logo2,
       },
       {
-        title: "PhotoShop Editing",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "Analyse de Données",
+        para: "Saisie et analyse sous Excel, gestion et traitement des informations, préparation de rapports",
         logo: services_logo3,
       },
     ],
   },
   Projects: {
-    title: "Projects",
-    subtitle: "MY CREATION",
+    title: "Projets",
+    subtitle: "MES RÉALISATIONS",
     image: person_project,
     project_content: [
       {
-        title: "Gym Website",
+        title: "Installation Tech Maci",
         image: project1,
       },
       {
-        title: "Social Media web",
+        title: "Sites Aly-Conakry",
         image: project2,
       },
       {
-        title: "Creative Website",
+        title: "Gestion Jeunesse Dubreka",
         image: project3,
       },
     ],
@@ -190,18 +190,18 @@ export const content = {
     btnText: "Hire Me",
   },
   Contact: {
-    title: "Contect Me",
-    subtitle: "GET IN TOUCH",
+    title: "Contactez-moi",
+    subtitle: "RESTONS EN CONTACT",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "salioubah@outlook.be",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:salioubah@outlook.be",
       },
       {
-        text: "+91 1234 56778",
+        text: "+224622289099",
         icon: MdCall,
-        link: "https://wa.me/1234567890",
+        link: "tel:+224622289099",
       },
       {
         text: "codeaprogram",
@@ -211,6 +211,6 @@ export const content = {
     ],
   },
   Footer: {
-    text: "All © Copy Right Reserved 2022",
+    text: "© 2024 Mamadou Saliou Bah - Tous droits réservés",
   },
 };
